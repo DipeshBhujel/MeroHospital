@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866192265533",
+    "firebase_url": "https://mero-hospital.firebaseio.com",
+    "project_id": "mero-hospital",
+    "storage_bucket": "mero-hospital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866192265533:android:c3f33f7602ad7d8506f554",
+        "android_client_info": {
+          "package_name": "com.DipsBhAi.merohospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866192265533-breuliaejas8jl2c5mlehp9hoin4nrun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOwnjO42oWz_GMY3ARdJM2aE6GrPZ4Cgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866192265533-breuliaejas8jl2c5mlehp9hoin4nrun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
